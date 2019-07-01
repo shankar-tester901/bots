@@ -1,0 +1,18 @@
+https://dialogflow.com/docs/reference/v2-auth-setup
+
+Create a Bot in DialogFlow first and follow these steps
+
+https://cloud.google.com/video-intelligence/docs/common/auth
+
+The json file has to be downloaded as it has the credentials
+
+We can create as many Intents as we want but we can only create a single
+fulfillment. So we need to write the Fulfillment code such that we are 
+able to address the requirements properly.
+
+Run server.js as that is the server and link this to the Widget in the VCRM
+
+Go to chatbot folder. Run the chatbot and then run the ngrok
+get the ngrok details and paste in the Fulfillment section
+
+
