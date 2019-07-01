@@ -31,7 +31,7 @@ related queries like, say, How is Superman?
 You will get a response back from the Bot and that can then be snapped as an image and stored in the CRM
 as an attachment.
 
-7. I have used a 3rd party for taking the snapshot. It is called html2canvas. Kudos to the developer!
+7. I have used a 3rd party for taking the snapshot. It is called https://html2canvas.hertzen.com/. Kudos to the developer!
 
 And don't forget to place your Branding and Price and to publish it!
 
